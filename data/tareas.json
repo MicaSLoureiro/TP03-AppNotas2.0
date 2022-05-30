@@ -1,0 +1,62 @@
+[
+    {
+        "titulo": "Completar Play Ground",
+        "clasificacion": "Curso Formar",
+        "estado": "en proceso"
+    },
+    {
+        "titulo": "Armar aplicación de tareas",
+        "clasificacion": "Curso Formar",
+        "estado": "en proceso"
+    },
+    {
+        "titulo": "Comprar helado",
+        "clasificacion": "Random",
+        "estado": "pendiente"
+    },
+    {
+        "titulo": "Limpiar la casa",
+        "clasificacion": "Hogar",
+        "estado": "terminada"
+    },
+    {
+        "titulo": "Sacar fotos a ingresos",
+        "clasificacion": "Emprendimiento",
+        "estado": "Terminada"
+    },
+    {
+        "titulo": "Publicar fotos en redes",
+        "clasificacion": "Emprendimiento",
+        "estado": "en proceso"
+    },
+    {
+        "titulo": "Contestar a cliente Susana R.",
+        "clasificacion": "Emprendimiento",
+        "estado": "pendiente"
+    },
+    {
+        "titulo": "Rever clases 7, 8 y 9",
+        "clasificacion": "curso formar",
+        "estado": "pendiente"
+    },
+    {
+        "titulo": "cocinar",
+        "estado": "terminada",
+        "clasificacion": "hogar"
+    },
+    {
+        "titulo": "cocinar",
+        "estado": "pendiente",
+        "clasificacion": "hogar"
+    },
+    {
+        "titulo": "Ir al supermercado",
+        "estado": "Pendiente",
+        "clasificacion": "No especificada"
+    },
+    {
+        "titulo": "Ir al gym",
+        "estado": "pendiente",
+        "clasificacion": "random"
+    }
+]
